@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="DECANAT_FIT" size="1.000000 0.750000" />
+    <ImageTarget name="ZAV_LAB_IZmereniy" size="1.000000 0.750000" />
+    <ImageTarget name="ZAM_po_vospit_rabote" size="1.000000 0.750000" />
+    <ImageTarget name="ZAM_po_uchebn_rabote" size="1.000000 0.750000" />
+    <ImageTarget name="Kafedra_ioid" size="1.000000 0.750000" />
+    <ImageTarget name="Kafedra_uprav_kachectva" size="1.000000 0.750000" />
+    <ImageTarget name="Cpec_po_uch-metod_rabote" size="1.000000 0.750000" />
+  </Tracking>
+</QCARConfig>
